@@ -1,4 +1,4 @@
-Tic Tac Toe Between Two Players on The same IDE 
+Tic Tac Toe Between Two Players 
 
 Copy & paste the python script to your IDE and run the scripts
 
